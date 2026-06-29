@@ -1,0 +1,6 @@
+{
+  "name": "CivicQ",
+  "description": "CivicQ is a premium AI-powered civic platform that empowers citizens and authorities to identify, verify, prioritize, and resolve civic issues transparently.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
